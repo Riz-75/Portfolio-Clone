@@ -11,10 +11,9 @@ body {
 .home {
   display: flex;
   flex-direction: column;
-  background-image: url("assets/images/header-background-mobile.svg");  
+  background-image: url("assets/images/header-background-mobile.svg");
   background-repeat: no-repeat;
   background-position: bottom;
-
 }
 
 .toolbar {
@@ -143,17 +142,15 @@ body {
   font-family: Poppins, sans-serif;
   font-weight: 600;
   font-size: 17px;
-  color: #396DF2;
+  color: #396df2;
 }
 
 .about {
-  border: 2px solid black;
-  height: 600px;
   padding: 114px 24px;
   gap: 12px;
   display: flex;
   flex-direction: column;
-  background-image: url('assets/images/background-about.svg');
+  background-image: url('assets/images/base-about-myself.svg');
 }
 
 .about h1 {
@@ -166,7 +163,7 @@ body {
 }
 
 .about p {
-  margin: 0px;
+  margin: 0;
   line-height: 24px;
   font-family: Poppins, sans-serif;
   font-weight: 500;
@@ -189,7 +186,7 @@ body {
 .about .get {
   width: 162px;
   height: 48px;
-  margin-top: 10px;
+  margin: 10px 0 24px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -202,5 +199,57 @@ body {
   font-family: Poppins, sans-serif;
   font-weight: 600;
   font-size: 17px;
-  color: #396DF2;
+  color: #396df2;
+}
+
+.lists .list-lang {
+  margin: -6px;
+  height: 72px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lists .list {
+  margin: -6px;
+  height: 72px;
+  border-bottom: 1px solid #e8e8e8;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lists p {
+  margin-left: 12px;
+  display: inline;
+  line-height: 24px;
+  font-weight: 600;
+  font-size: 20px;
+  color: black;
+}
+
+.lists .arr {
+  margin-right: 36px;
+}
+
+.lists .langs {
+  height: 67px;
+  margin: 12px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+}
+
+.langs img {
+  margin: 9px 12px;
+}
+
+.langs p {
+  margin: 0;
+  line-height: 20px;
+  font-weight: 600;
+  font-size: 15px;
+  color: #253858;
 }
