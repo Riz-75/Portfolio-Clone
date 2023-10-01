@@ -11,3 +11,7 @@ Portfolio project using HTML, CSS. The project consist of:
 - a headline section having some text and icons of some social media platforms
 
 - custom font and several vector images are used in the background to enhance the UI
+
+- a work section to shawcase my projects using flexbox and grid layouts
+
+- about myself section using to further show my expertise and skills
