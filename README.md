@@ -14,4 +14,4 @@ Portfolio project using HTML, CSS. The project consist of:
 
 - a work section to shawcase my projects using flexbox and grid layouts
 
-- about myself section using to further show my expertise and skills
+- about myself section to further show my expertise and skills
