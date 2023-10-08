@@ -253,3 +253,81 @@ body {
   font-size: 15px;
   color: #253858;
 }
+
+.c-bg {
+  background-color: white;
+}
+
+.c-bg .contact {
+  height: 779px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #6070ff;
+  border-top-left-radius: 93px;
+  background-image: url("assets/images/contact-form-shapes-mobile.svg");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+.contact h1 {
+  margin: 0;
+  padding: 118px 0 0;
+  line-height: 52px;
+  font-family: Poppins, sans-serif;
+  font-weight: 900;
+  font-size: 40px;
+  color: white;
+}
+
+.contact p {
+  margin: 12px 0 16px;
+  padding: 0 24px;
+  text-align: center;
+  line-height: 28px;
+  font-family: Poppins, sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  color: white;
+}
+
+.contact .form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.form .t {
+  width: 312px;
+  height: 48px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border: none;
+  border-radius: 8px;
+  line-height: 20px;
+  font-family: Poppins, sans-serif;
+  font-family: 400;
+  font-size: 17px;
+  color: #172b4d;
+}
+
+.form #msg {
+  height: 168px;
+  margin: 0;
+  padding-top: 16px;
+  resize: none;
+}
+
+.form button {
+  width: 142px;
+  height: 48px;
+  margin-top: 16px;
+  border: none;
+  border-radius: 8px;
+  background-color: white;
+  line-height: 24px;
+  font-family: Poppins, sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  color: #6070ff;
+}
