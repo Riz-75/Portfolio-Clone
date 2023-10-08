@@ -15,3 +15,7 @@ Portfolio project using HTML, CSS. The project consist of:
 - a work section to shawcase my projects using flexbox and grid layouts
 
 - about myself section to further show my expertise and skills
+
+- contact form to let people connect with me
+
+- used formspree to send form information to my email
