@@ -2,6 +2,10 @@
 
 This is a simple portfolio website created using HTML and CSS. It serves as a personal webpage to showcase my skills and projects as a software developer.
 
+# GitHub Pages
+
+https://riz-75.github.io/portfolio-clone/
+
 ## Table of Contents
 
 - [Features](#features)
